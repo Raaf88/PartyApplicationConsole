@@ -28,4 +28,14 @@ public class Guest {
     public boolean isVegan() {
         return isVegan;
     }
+
+    @Override
+    public String toString() {
+        return "Guest{" +
+                "name='" + name + '\'' +
+                ", meal='" + meal + '\'' +
+                ", phoneNumber=" + phoneNumber +
+                ", isVegan=" + isVegan +
+                '}';
+    }
 }
