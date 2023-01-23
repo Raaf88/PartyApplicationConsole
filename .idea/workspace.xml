@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a65130-d2ac-4535-bf8e-2c4295c4f91d" name="Changes" comment="Zmiana w metodzie main">
+    <list default="true" id="20a65130-d2ac-4535-bf8e-2c4295c4f91d" name="Changes" comment="Stworzenie menu aplikacji w pętli While">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +15,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="763838c8-0a52-40ad-ae7d-57e3f96b762f" />
+        <option name="url" value="https://github.com/Raaf88/PartyApplicationConsole.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,7 +49,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2KhIrgh0sq2ox9VCIxArU3QDZvM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674420593101</updated>
-      <workItem from="1674420594224" duration="336000" />
+      <workItem from="1674420594224" duration="2667000" />
     </task>
     <task id="LOCAL-00001" summary="New project Start">
       <created>1674420619641</created>
@@ -95,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674420793705</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Stworzenie menu aplikacji w pętli While">
+      <created>1674421014822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674421014822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project Start" />
     <MESSAGE value="Zmiana w metodzie main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zmiana w metodzie main" />
+    <MESSAGE value="Stworzenie menu aplikacji w pętli While" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stworzenie menu aplikacji w pętli While" />
   </component>
 </project>
