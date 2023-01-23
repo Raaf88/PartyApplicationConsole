@@ -18,7 +18,7 @@ public class Main {
             int userChoice = scanner.nextInt();
 
             switch (userChoice) {
-                case 1 -> System.out.println(party.getGuests());
+                case 1 -> party.displayGuests();
                 case 2 -> party.addGuests();
                 case 3 -> System.out.println("Wyświetlanie potraw");
                 case 4 -> System.out.println("Znajdowanie gościa po numerze telefonu");
