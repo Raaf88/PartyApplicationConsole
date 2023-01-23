@@ -29,13 +29,15 @@ public class Guest {
         return isVegan;
     }
 
-    @Override
-    public String toString() {
-        return "Guest{" +
-                "name='" + name + '\'' +
-                ", meal='" + meal + '\'' +
-                ", phoneNumber=" + phoneNumber +
-                ", isVegan=" + isVegan +
-                '}';
+    public void displayGestsInformation() {
+        System.out.println("Imię: " + name);
+        System.out.println("Preferowany posiłek: " + meal);
+        System.out.println("Numer telefonu: " + phoneNumber);
+
+        String isVeganString = isVegan ? "Tak" : "Nie";
+        System.out.println("Weganin?: " + isVeganString);
+
+
     }
+
 }

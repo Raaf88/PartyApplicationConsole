@@ -20,8 +20,8 @@ public class Main {
             switch (userChoice) {
                 case 1 -> party.displayGuests();
                 case 2 -> party.addGuests();
-                case 3 -> System.out.println("Wyświetlanie potraw");
-                case 4 -> System.out.println("Znajdowanie gościa po numerze telefonu");
+                case 3 -> party.displayMeals();
+                case 4 -> party.displayGuestsPhoneNumber();
                 case 5 -> shouldContinue = false;
             }
 
