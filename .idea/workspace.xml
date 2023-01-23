@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a65130-d2ac-4535-bf8e-2c4295c4f91d" name="Changes" comment="Stworzenie menu aplikacji w pętli While">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Party.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="20a65130-d2ac-4535-bf8e-2c4295c4f91d" name="Changes" comment="Stworzenie dwóch klas i stworzenie obiektu typu Party">
       <change beforePath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Party.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rafal/lewandowski/Party.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674420593101</updated>
-      <workItem from="1674420594224" duration="2667000" />
+      <workItem from="1674420594224" duration="2980000" />
     </task>
     <task id="LOCAL-00001" summary="New project Start">
       <created>1674420619641</created>
@@ -127,16 +125,35 @@
       <option name="project" value="LOCAL" />
       <updated>1674421014822</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Stworzenie dwóch klas i stworzenie obiektu typu Party">
+      <created>1674450530011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674450530011</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project Start" />
     <MESSAGE value="Zmiana w metodzie main" />
     <MESSAGE value="Stworzenie menu aplikacji w pętli While" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stworzenie menu aplikacji w pętli While" />
+    <MESSAGE value="Stworzenie dwóch klas i stworzenie obiektu typu Party" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stworzenie dwóch klas i stworzenie obiektu typu Party" />
   </component>
 </project>
